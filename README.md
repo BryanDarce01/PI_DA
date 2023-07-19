@@ -8,7 +8,7 @@
 <h2 align="center">Data Analytics</h2>
   <hr>
   <p align="center">
-  <img src="src/conec.png" alt="Logo">
+  <img src="src/Conec.png" alt="Logo">
 </p>
 <h2 align="center">Connectify</h2>
 <h3 align="center"> Your gateway to seamless connectivity </h3>
