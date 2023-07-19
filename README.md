@@ -26,13 +26,13 @@ A través de la comprensión profunda del comportamiento del sector, podremos co
 </blockquote>
 
 ## Pasos del proyecto 📚
-### 1. Extracción, Transformación, Carga ( [ ETL ](https://github.com/BryanDarce01/PI_ML_OPS/blob/master/ETL_Peliculas.ipynb))
+### 1. Extracción, Transformación, Carga ( [ ETL ](https://github.com/BryanDarce01/PI_DA/blob/master/ETL_Internet.ipynb))
 <p align="justify">
   Se llevó a cabo el proceso de extracción de datos, la transformación de los datos para su limpieza y carga de los datos para tenerlos listos para el análisis explotario.
 
 </p>
 
-### 2. Análisis Exploratorio de Datos ( [ EDA ](https://github.com/BryanDarce01/PI_ML_OPS/blob/master/EDA.ipynb))
+### 2. Análisis Exploratorio de Datos ( [ EDA ](https://github.com/BryanDarce01/PI_DA/blob/master/EDA_Internet_FIjo.ipynb))
 
 <p align="justify">
   En este paso se exploran los datos para tener un mejor entendimiento de la información que contiene cada archivo y se grafican los datos más relevantes. 
@@ -42,7 +42,7 @@ A través de la comprensión profunda del comportamiento del sector, podremos co
 </p>
 
 
-###  3. Power BI ([ Dashboard ](https://github.com/BryanDarce01/PI_ML_OPS/blob/master/EDA.ipynb))
+###  3. Power BI ([ Dashboard ](https://github.com/BryanDarce01/PI_DA/blob/master/src/Dash.png))
 <p align="justify">
 En esta presentación el enfoque fue hacia una comparativa de los Ingresos de Internet Fijo contra los Ingresos de Internet Móvil, y ver los Mbps (megabits por segundo) y su comportamiendo a lo largo de los años y ver como estas son áreas de oportunidad para Connectify y así tomar mejores decisiones a la hora de invertir. 
 
